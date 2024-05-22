@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Изучаем английский язык</string>
+    <string name="navigation_drawer_open">Открыть меню</string>
+    <string name="navigation_drawer_close">Закрыть меню</string>
+    <string name="nav_header_title">Приложение для обучения</string>
+    <string name="nav_header_subtitle">ЮУРГУ 402</string>
+    <string name="nav_header_desc">Заголовок</string>
+    <string name="action_settings">Настройки</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="NameUser">Имя пользователя</string>
+    <string name="Password">Пароль</string>
+    <string name="nav_video">Видео уроки</string>
+    <string name="exerciseYN">Упражнения да/нет</string>
+    <string name="exercizeWrite">Упражнение вставить пропущенную букву</string>
+    <string name="matching">Упражения с выбором</string>
+    <string name="quiz">Итоговое тестирование</string>
+
+</resources>
